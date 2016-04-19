@@ -72,4 +72,3 @@ $(".owl-carousel").owlCarousel();
 License
 ------------
 The MIT License (MIT)
-# owl-carousel-fork
